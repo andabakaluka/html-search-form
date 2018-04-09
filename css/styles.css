@@ -1,0 +1,39 @@
+@import url(../styles/vendors/bootstrap/bootstrap-grid.css);
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  -webkit-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  -webkit-font-smoothing: antialiased;
+  min-width: 640px; }
+
+.form-wrapper {
+  padding: 1.875em;
+  background: #f5d361;
+  font-family: sans-serif; }
+
+.form-title {
+  margin: 0;
+  font-size: 2em;
+  line-height: 42px;
+  padding-bottom: 10px; }
+
+.search-form__item {
+  padding: 0;
+  border: none; }
+
+.search-form__label {
+  display: block;
+  color: #444;
+  font-size: 0.875em;
+  line-height: 1.875em; }
+
+.search-form__input {
+  width: 90%;
+  padding: 2% 8% 2% 2%;
+  line-height: 15px;
+  background: #FEFEFE;
+  border-color: #a9a9a9;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 0.813em; }
